@@ -12,3 +12,5 @@ https://natcalderon.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Nathaly Calderon 
+
+### ©️2019 Run Budy, Inc
